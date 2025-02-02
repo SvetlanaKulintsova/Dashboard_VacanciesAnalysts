@@ -1,4 +1,5 @@
 ## Dashboard_VacanciesAnalysts
+<https://public.tableau.com/app/profile/svetlana.kulintsova/viz/Progect_2_KulintsovaSG_v2/Dashboard>
  🛠 Стек: Tableau, фактоиды, расчетные поля, гистограмма распределения, линейный график, таблица, мнимые оси, LOD, визуализация при помощи Box Plot.
 
 ### <u>Цель<u/>: <br>
